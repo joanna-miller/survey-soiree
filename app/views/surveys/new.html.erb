@@ -1,0 +1,7 @@
+<h1>New Survey</h1>
+
+<%= form_for @survey do |f| %>
+  <%= f.label :title %>
+  <%= f.text_field :title, placeholder: "Survey Title", class: "form-control", required: "true" %>
+  <%= f.submit class: "btn btn-primary"%> 
+<% end %>
