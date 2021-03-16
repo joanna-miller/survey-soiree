@@ -1,0 +1,7 @@
+<h1>Edit Question</h1>
+
+<%= form_for [@survey, @question] do |f| %>
+  <%= f.label :question %>
+  <%= f.text_field :question, placeholder: "Update Question", class: "form-control", required: "true" %>
+  <%= f.submit class: "btn btn-primary"%> 
+<% end %>
