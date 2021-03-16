@@ -15,13 +15,15 @@
 
 * _Ruby 2.6.5_
 * _Rails 6.1.3_
+* _pg 1.2.3_
+* _Webpacker 5.2.1_
+* _jQuery Rails 4.4.0_
 * _Rspec Rails 5.0.0_
 * _Pry 0.14.0_
 * _Byebug 11.1.3_
-* _Puma 5.2.2_
 * _PostgreSQL 13.2_
 * _Bundler 2.2.11_
-* _pg 1.2.3_
+* _Puma 5.2.2_
 * _Launchy 2.5.0_
 
 ---
@@ -48,6 +50,12 @@ _{Description of application}_
 * _To interact with application, navigate to http://localhost:3000/ in a web browser._
 * _Exit live server, press Ctrl+C in your terminal_ 
 
+--- 
+
+## Known Bugs
+
+* _{list any known bugs here}_
+
 ---
 
 ## License
@@ -58,6 +66,4 @@ _{Description of application}_
 
 ## Contact Information
 
-* _[Email](mailto:joannadawnmiller@gmail.com)_
-* _[Github](https://github.com/joanna-miller)_
-* _[LinkedIn](https://www.linkedin.com/in/jomillerde/)_
+* _Contact Jo via [Email](mailto:joannadawnmiller@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jomillerde/). Or check out her [Github](https://github.com/joanna-miller)._
